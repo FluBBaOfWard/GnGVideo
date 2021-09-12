@@ -1,0 +1,7 @@
+Ghosts'n Goblins Video To do
+----------------------------
+
+	Support screen-flip.
+	Optimize scroll copying.
+	Optimize background rendering.
+

@@ -1,0 +1,22 @@
+Ghosts'n Goblins Video revision history
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+V0.1.0 - 2021-03-17 (FluBBa)
+	Added savestate.
+
+V0.0.4 - 2021-02-13 (FluBBa)
+	Tweaked bg rendering for GBA.
+
+V0.0.3 - 2021-02-09 (FluBBa)
+	Priority for background tiles added.
+
+V0.0.2 - 2021-02-07 (FluBBa)
+	Everything works.
+
+V0.0.1 - 2021-02-05 (FluBBa)
+	Started recode for gcc/NDS.
+
+V0.0.0 - 2008-04-16 (FluBBa)
+	First GBA release.
+
